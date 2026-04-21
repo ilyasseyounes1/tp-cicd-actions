@@ -30,3 +30,10 @@ describe('factorial', () => {
     expect(() => factorial(-1)).toThrow('Nombre négatif');
   });
 });
+
+
+describe('subtract', () => {
+  test('subtracts two numbers', () => {
+    expect(subtract(5, 3)).toBe(2);
+  });
+});

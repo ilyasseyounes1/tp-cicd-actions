@@ -12,5 +12,8 @@ function factorial(n) {
   if (n <= 1) return 1;
   return n * factorial(n - 1);
 }
-
-module.exports = { add, multiply, factorial };
+// test protection
+function subtract(a, b) {
+  return a - b;
+}
+module.exports = { add, multiply, factorial, subtract };
