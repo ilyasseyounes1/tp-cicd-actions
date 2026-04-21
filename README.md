@@ -1,8 +1,8 @@
 # tp-cicd-actions
 
-![CI](https://github.com/<your-username>/tp-cicd-actions/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/ilyasseyounes1/tp-cicd-actions/actions/workflows/ci.yml/badge.svg)
 
-TP CI/CD avec GitHub Actions — Licence ISI, Cadi Ayyad University.
+TP CI/CD avec GitHub Actions 
 
 ## Stack
 - Node.js + Jest (tests)
