@@ -1,5 +1,5 @@
 // __tests__/math.test.js
-const { add, multiply, factorial } = require('../src/math');
+const { add, multiply, factorial, subtract } = require('../src/math');
 
 describe('add', () => {
   test('adds two positive numbers', () => {
